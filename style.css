@@ -84,7 +84,7 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, salmon,tomato);
     border-image-slice: 1;
-    padding-right: ;
+    
     
 }
 #Training{
@@ -105,6 +105,11 @@ section{
 footer p{
     text-align: center;
     font-size: 14px;
+    color: gray;
+    margin-top: 70px;
+}
+.footer-address{
+    text-decoration: none;
     color: gray;
 }
 
